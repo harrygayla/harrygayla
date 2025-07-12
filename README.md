@@ -46,9 +46,9 @@
 
 ## 📫 Let’s Connect!
 
-- LinkedIn: [(https://www.linkedin.com/in/harry-gayla-3b9313318/)]  
+- LinkedIn: (https://www.linkedin.com/in/harry-gayla-3b9313318/)
 - GitHub: [https://github.com/harrygayla](https://github.com/harrygayla)  
-- Email: [harrygayla@gmail.com]  
+- Email: harrygayla@gmail.com  
 
 ---
 
