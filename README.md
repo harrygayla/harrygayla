@@ -15,6 +15,9 @@
 - **DevOps & Automation:** Docker, Jenkins, Ansible
 - **Networking:** CCNA-level Networking, Aviatrix Multicloud
 - **Embedded Systems:** Microcontrollers, hardware-level programming
+- **Frontend Hosting:** Vercel, Netlify
+- **Backend Hosting:** Render, Railway
+- **Database:** MongoDB Atlas
 
 ---
 
