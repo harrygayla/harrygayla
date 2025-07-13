@@ -9,7 +9,14 @@
 ## 🔧 Tech Stack & Tools
 
 - **Operating Systems & CLI:** Linux CLI
-- **Web Development:** MERN Stack (MongoDB, Express, React, Node), React + Django
+- **Web Development:**
+  - MERN Stack
+    - MongoDB
+    - Express.js
+    - React.js
+    - Node.js
+  - React + Django
+  - HTML, CSS, JavaScript + Node.js, Express
 - **Mobile Development:** React Native
 - **Design & Prototyping:** Figma
 - **DevOps & Automation:** Docker, Jenkins, Ansible
